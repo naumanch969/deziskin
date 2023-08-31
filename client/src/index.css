@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=IBM+Plex+Mono:wght@100;200;300;500;600&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    font-family: 'Courier Prime', monospace;
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+#filebase_image > input{
+    display:none;
+}
+
+.swiper-button-prev .swiper-button-next{
+    color:black !important;
+}

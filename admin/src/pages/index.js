@@ -1,0 +1,11 @@
+export { default as Home } from './Home'
+export { default as Users } from './Users'
+export { default as User } from './User'
+export { default as NewUser } from './NewUser'
+export { default as Products } from './Products'
+export { default as Product } from './Product'
+export { default as NewProduct } from './NewProduct'
+export { default as Login } from './Login'
+export { default as Register } from './Register'
+
+export { default as ToBeCreated } from './ToBeCreated'
